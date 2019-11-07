@@ -1,7 +1,7 @@
 {
-  "name": "realtimeplayground",
+  "name": "realtime_template",
   "version": "1.0.0",
-  "description": "testing socket io",
+  "description": "template of socket io",
   "author": "Forest",
   "license": "UNLICENSED",
   "engines": {
